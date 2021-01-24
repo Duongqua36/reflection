@@ -7,3 +7,4 @@ mục tiêu module 2 là :
 + sẽ tăng thêm số giờ học ở nhà
 + nhìn nhận lại cách học và có sự thay đổi
 + tích cực trao đổi với mọi người và tutor
++ sau mỗi bài học sẽ vẽ minmap bài học đó
